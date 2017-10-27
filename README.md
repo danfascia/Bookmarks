@@ -1,5 +1,5 @@
-# UI-Patterns
-Collection of UI patterns
+# Lean Mean Resources for building great static sites
+Collection of tools found and tested
 
 ## Time Lines
 The time line can be vertical or horizontal and represents temporal data in an ordered fashion.
