@@ -23,6 +23,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * Better contrast ratios https://colorable.jxnblk.com
 * Palette generator https://palx.jxnblk.com/
 * http://clrs.cc/
+* Colour Scale tool https://hihayk.github.io/scale/
 
 ## Icons
 * http://geomicons.com/
