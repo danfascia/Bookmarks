@@ -12,6 +12,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * http://furtive.co/
 * http://basscss.com/
 * http://tachyons.io/
+* https://tailwindcss.com/
 
 ### Others
 * https://purecss.io/
@@ -25,3 +26,9 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 ## Icons
 * http://geomicons.com/
+* http://jxnblk.com/geomicons-wired/
+* http://www.zondicons.com/
+* http://www.entypo.com/
+
+## Backgrounds
+* http://www.heropatterns.com/
