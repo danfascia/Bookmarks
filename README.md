@@ -32,6 +32,9 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * http://www.entypo.com/
 * https://feathericons.com/
 
+## Components
+* https://material.io/develop/web/
+
 ## Useful Tools
 * https://elrumordelaluz.github.io/micro-outline-stroke/
 * https://plnkr.co
