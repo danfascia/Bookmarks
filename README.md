@@ -31,6 +31,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * http://www.zondicons.com/
 * http://www.entypo.com/
 * https://feathericons.com/
+* https://github.com/sschoger/heroicons-ui
 
 ## Components
 * https://material.io/develop/web/
