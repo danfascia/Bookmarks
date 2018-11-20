@@ -42,3 +42,8 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 ## Backgrounds
 * http://www.heropatterns.com/
+
+## Media Hosting / CDN
+* https://images.weserv.nl/ (free)
+* https://cloudinary.com (good free tier also supports video)
+* https://www.imgix.com/ (no free tier but fair and scalable pricing model)
