@@ -8,7 +8,7 @@ I find it really hard to remember which modules are good and what they are usefu
 
 ## Database
 - [Level](https://github.com/Level/level) Fast key/value data store based on Google LevelDB
-
+- [low](https://github.com/typicode/lowdb) Small easy nosql db (json <200mb)
 ## PDF
 - [pdffiller](https://www.npmjs.com/package/pdffiller) Fill PDF forms with values, includes remapping fields
 - [jsPDF](https://github.com/MrRio/jsPDF) Client side PDF generation - good to convert webpages to PDF
