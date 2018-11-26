@@ -1,3 +1,4 @@
+
 # Nice Node.js modules and resources
 
 I find it really hard to remember which modules are good and what they are useful for... so here is my scractchpad for future reference
@@ -20,3 +21,6 @@ I find it really hard to remember which modules are good and what they are usefu
 ## Authentication
 - [Passport] (http://www.passportjs.org/) Versatile Express authentication library for 500+ different providers
 - [Auth0](https://auth0.com)
+
+## Form Validation
+- [VeeValide](https://baianat.github.io/vee-validate/) Easy inline Vue.js form validation
