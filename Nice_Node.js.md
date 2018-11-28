@@ -20,7 +20,7 @@ I find it really hard to remember which modules are good and what they are usefu
 - [jsPDF](https://github.com/MrRio/jsPDF) Client side PDF generation - good to convert webpages to PDF
 
 ## Authentication
-- [Passport] (http://www.passportjs.org/) Versatile Express authentication library for 500+ different providers
+- [Passport](http://www.passportjs.org/) Versatile Express authentication library for 500+ different providers
 - [Auth0](https://auth0.com)
 
 ## Form Validation
