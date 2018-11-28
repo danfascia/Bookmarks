@@ -11,7 +11,7 @@ I find it really hard to remember which modules are good and what they are usefu
 ## Database
 - [Level](https://github.com/Level/level) Fast key/value data store based on Google LevelDB
 - [low](https://github.com/typicode/lowdb) Small easy nosql db (json <200mb)
-- [Mongoose] (https://mongoosejs.com/) ORM for Mongoose DB to allow database to mirror app objects
+- [Mongoose](https://mongoosejs.com/) ORM for Mongoose DB to allow database to mirror app objects
 - [MongoDB Node.js adapter](https://mongodb.github.io/node-mongodb-native/) NoSQL db
 - [mLab](https://www.mlab.com/) MongoDB DBaaS
 
