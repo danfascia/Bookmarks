@@ -48,3 +48,8 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * https://images.weserv.nl/ (free)
 * https://cloudinary.com (good free tier also supports video)
 * https://www.imgix.com/ (no free tier but fair and scalable pricing model)
+
+## SEO
+ - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
+ - [web.dev](https://web.dev/measure) Google Lighthouse
+ - [YoastSEO](https://github.com/Yoast/YoastSEO.js) Javascript engine from Yoast SEO WP plugin
