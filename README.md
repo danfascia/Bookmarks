@@ -53,3 +53,9 @@ The time line can be vertical or horizontal and represents temporal data in an o
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
  - [web.dev](https://web.dev/measure) Google Lighthouse
  - [YoastSEO](https://github.com/Yoast/YoastSEO.js) Javascript engine from Yoast SEO WP plugin
+
+## Jekyll Themes
+ - [Hydra](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
+ 
+## Hugo Themes
+ - [Hugo Pipes + Tailwind CSS](https://github.com/budparr/hugopipes-tailwindcss) Great starter stack by @budparr. Minifies and PurgeCSS built in
