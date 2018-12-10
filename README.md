@@ -24,6 +24,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * Palette generator https://palx.jxnblk.com/
 * http://clrs.cc/
 * Colour Scale tool https://hihayk.github.io/scale/
+* CSSGradient maker https://uigradients.com/#LoveCouple
 
 ## Icons
 * http://geomicons.com/
