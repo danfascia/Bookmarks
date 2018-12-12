@@ -50,6 +50,13 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * https://cloudinary.com (good free tier also supports video)
 * https://www.imgix.com/ (no free tier but fair and scalable pricing model)
 
+## Form Endpoints
+* https://www.formata.io/ (paid) Very feature rich, webhooks, results API
+* https://formaholic.com/ (free) Simple emailing of form data. Stores results online. Protects email.
+* https://formsubmit.io/ (free) simple endpoint emailer
+* https://formbucket.com/ (paid) Cheap and very good webhook features
+* https://formspree.io/ (free + paid) Simple and elegant email endpoint + upgrade features
+
 ## SEO
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
  - [web.dev](https://web.dev/measure) Google Lighthouse
