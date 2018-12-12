@@ -37,6 +37,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 ## Components
 * https://material.io/develop/web/
+* https://robinparisi.github.io/tingle/ Self contained modal script/CSS
 
 ## Useful Tools
 * https://elrumordelaluz.github.io/micro-outline-stroke/
