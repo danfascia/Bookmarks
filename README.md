@@ -76,3 +76,6 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * [Useplink](https://useplink.com/en/) Nice design, but requires use of https://mollie.com for processing payments
 * [Zoho Checkout](https://www.zoho.com/uk/checkout/) A bit Zoho-esque but works well
 * [Gumroad](https://gumroad.com/) A bit expensive but very slick experience for digital products
+
+## Site Monitoring
+* [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
