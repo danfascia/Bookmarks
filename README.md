@@ -58,6 +58,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * https://formbucket.com/ (paid) Cheap and very good webhook features
 * https://formspree.io/ (free + paid) Simple and elegant email endpoint + upgrade features
 * https://formcarry.com/ (free + paid) Advanced features in paid version
+* https://helloforms.co/ (cheap paid) Webhooks, otherwise quite basic but great pricing
 
 ## SEO
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
@@ -69,3 +70,9 @@ The time line can be vertical or horizontal and represents temporal data in an o
  
 ## Hugo Themes
  - [Hugo Pipes + Tailwind CSS](https://github.com/budparr/hugopipes-tailwindcss) Great starter stack by @budparr. Minifies and PurgeCSS built in
+
+## Payments
+* [ZipSell](https://www.zipsell.org/)
+* [Useplink](https://useplink.com/en/) Nice design, but requires use of https://mollie.com for processing payments
+* [Zoho Checkout](https://www.zoho.com/uk/checkout/) A bit Zoho-esque but works well
+* [Gumroad](https://gumroad.com/) A bit expensive but very slick experience for digital products
