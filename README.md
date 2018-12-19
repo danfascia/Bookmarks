@@ -64,6 +64,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
  - [web.dev](https://web.dev/measure) Google Lighthouse
  - [YoastSEO](https://github.com/Yoast/YoastSEO.js) Javascript engine from Yoast SEO WP plugin
+ - https://github.com/thedaviddias/Front-End-Performance-Checklist
 
 ## Jekyll Themes
  - [Hydra](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
