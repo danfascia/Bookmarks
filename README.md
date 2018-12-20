@@ -19,6 +19,13 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * http://milligram.io/
 * https://picturepan2.github.io/spectre/index.html
 
+## Frontend JS
+Emphasis on microJS utilities rather than large libraries
+* [Micromodal](https://micromodal.now.sh) Micro framework to build modals
+* [SweetAlert2](https://sweetalert2.github.io/) Fancy kitchen sink modal dialogs with forms
+* [ScrollReveal](https://scrollrevealjs.org/) Animation library for scroll/reveal work
+* [Tlite](https://chrisdavies.github.io/tlite/)Lightweight tooltips
+
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
 * Palette generator https://palx.jxnblk.com/
