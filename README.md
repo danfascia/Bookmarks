@@ -37,7 +37,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Gumshoe](https://github.com/cferdinandi/gumshoe/) Scrollspy (great for sidebar and TOC navigation)
 * [Xray](https://github.com/cferdinandi/x-ray/) Password show/hide toggle for form fields
 
-[Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above
+[Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above. https://vanillajstoolkit.com
 
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
