@@ -25,6 +25,7 @@ Emphasis on microJS utilities rather than large libraries
 * [SweetAlert2](https://sweetalert2.github.io/) Fancy kitchen sink modal dialogs with forms
 * [ScrollReveal](https://scrollrevealjs.org/) Animation library for scroll/reveal work
 * [Tlite](https://chrisdavies.github.io/tlite/)Lightweight tooltips
+* [AnchorJS](https://github.com/bryanbraun/anchor) Deep anchor links for headings with # URL
 
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
