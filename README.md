@@ -22,10 +22,22 @@ The time line can be vertical or horizontal and represents temporal data in an o
 ## Frontend JS
 Emphasis on microJS utilities rather than large libraries
 * [Micromodal](https://micromodal.now.sh) Micro framework to build modals
+* [Modals](https://github.com/cferdinandi/modals/) Very light and flexible modal script
+* [Tabby](https://github.com/cferdinandi/tabby/) As above for tabs
 * [SweetAlert2](https://sweetalert2.github.io/) Fancy kitchen sink modal dialogs with forms
 * [ScrollReveal](https://scrollrevealjs.org/) Animation library for scroll/reveal work
-* [Tlite](https://chrisdavies.github.io/tlite/)Lightweight tooltips
+* [Tlite](https://chrisdavies.github.io/tlite/) Lightweight tooltips
 * [AnchorJS](https://github.com/bryanbraun/anchor) Deep anchor links for headings with # URL
+* [SmoothScroll](https://github.com/cferdinandi/smooth-scroll) Smooth scrolling to anchors.
+* [Bouncer](https://github.com/cferdinandi/bouncer) HTML5 form validation with JS improvements.
+* [Atomic](https://github.com/cferdinandi/atomic) Small Ajax/HTTP Promises library for AJAX GET/POST requests
+* [DaysJS](https://github.com/iamkun/dayjs) Lightweight syntax compatible version of Moment.js
+* [Houdini](https://github.com/cferdinandi/houdini) Lightweight Accordions
+* [Astro](https://github.com/cferdinandi/astro/) Mobile navigation collapse (burger) menu
+* [Gumshoe](https://github.com/cferdinandi/gumshoe/) Scrollspy (great for sidebar and TOC navigation)
+* [Xray](https://github.com/cferdinandi/x-ray/) Password show/hide toggle for form fields
+
+[Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above
 
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
@@ -72,7 +84,8 @@ Emphasis on microJS utilities rather than large libraries
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
  - [web.dev](https://web.dev/measure) Google Lighthouse
  - [YoastSEO](https://github.com/Yoast/YoastSEO.js) Javascript engine from Yoast SEO WP plugin
- - https://github.com/thedaviddias/Front-End-Performance-Checklist
+ - [Frontend Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+ - [Metatags.io](https://metatags.io/) Meta tag, facebook og and Twitter card generator
 
 ## Jekyll Themes
  - [Hydra](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
