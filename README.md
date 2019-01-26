@@ -27,7 +27,7 @@ Emphasis on microJS utilities rather than large libraries
 * [SweetAlert2](https://sweetalert2.github.io/) Fancy kitchen sink modal dialogs with forms
 * [ScrollReveal](https://scrollrevealjs.org/) Animation library for scroll/reveal work
 * [Tlite](https://chrisdavies.github.io/tlite/) Lightweight tooltips
-* [AnchorJS](https://github.com/bryanbraun/anchor) Deep anchor links for headings with # URL
+* [AnchorJS](https://github.com/bryanbraun/anchorjs) Deep anchor links for headings with # URL
 * [SmoothScroll](https://github.com/cferdinandi/smooth-scroll) Smooth scrolling to anchors.
 * [Bouncer](https://github.com/cferdinandi/bouncer) HTML5 form validation with JS improvements.
 * [Atomic](https://github.com/cferdinandi/atomic) Small Ajax/HTTP Promises library for AJAX GET/POST requests
