@@ -62,6 +62,7 @@ Emphasis on microJS utilities rather than large libraries
 ## Useful Tools
 * https://elrumordelaluz.github.io/micro-outline-stroke/
 * https://plnkr.co
+* [Clippy](https://bennettfeely.com/clippy/) Clipping path maker
 
 ## Backgrounds
 * http://www.heropatterns.com/
