@@ -100,6 +100,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Useplink](https://useplink.com/en/) Nice design, but requires use of https://mollie.com for processing payments
 * [Zoho Checkout](https://www.zoho.com/uk/checkout/) A bit Zoho-esque but works well
 * [Gumroad](https://gumroad.com/) A bit expensive but very slick experience for digital products
+* [Snipcart](https://snipcart.com/) The most comprehensive, best designed standalone shopping cart / payment experience. Supports subscriptions.
 
 ## Site Monitoring
 * [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
