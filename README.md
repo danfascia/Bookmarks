@@ -29,6 +29,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Tlite](https://chrisdavies.github.io/tlite/) Lightweight tooltips
 * [AnchorJS](https://github.com/bryanbraun/anchorjs) Deep anchor links for headings with # URL
 * [SmoothScroll](https://github.com/cferdinandi/smooth-scroll) Smooth scrolling to anchors.
+
 * [Bouncer](https://github.com/cferdinandi/bouncer) HTML5 form validation with JS improvements.
 * [Atomic](https://github.com/cferdinandi/atomic) Small Ajax/HTTP Promises library for AJAX GET/POST requests
 * [DaysJS](https://github.com/iamkun/dayjs) Lightweight syntax compatible version of Moment.js
@@ -63,6 +64,7 @@ Emphasis on microJS utilities rather than large libraries
 * https://elrumordelaluz.github.io/micro-outline-stroke/
 * https://plnkr.co
 * [Clippy](https://bennettfeely.com/clippy/) Clipping path maker
+* [Sheety](https://sheety.co/) Generate JSON/XML API from Google Sheet
 
 ## Backgrounds
 * http://www.heropatterns.com/
