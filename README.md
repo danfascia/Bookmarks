@@ -87,6 +87,7 @@ Emphasis on microJS utilities rather than large libraries
  - [YoastSEO](https://github.com/Yoast/YoastSEO.js) Javascript engine from Yoast SEO WP plugin
  - [Frontend Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
  - [Metatags.io](https://metatags.io/) Meta tag, facebook og and Twitter card generator
+ - [Instant.page](https://instant.page/) Preloads links on hover to accelerate page load experience. 1kB script.
 
 ## Jekyll Themes
  - [Hydra](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
