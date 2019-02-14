@@ -40,6 +40,11 @@ Emphasis on microJS utilities rather than large libraries
 
 [Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above. https://vanillajstoolkit.com
 
+## Backend / Service-y Stuff
+
+* [Staticman](https://staticman.net/) Pipes field data to a markdown file on your GitHub repo. NodeJS, can be self hosted or SaaS
+* [Trigger & Send Google Sheets addon](https://chrome.google.com/webstore/detail/trigger-send/lmpdaoninbfpblmajgcodhookngnekek) Call a webhook when a Sheets event is triggered
+
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
 * Palette generator https://palx.jxnblk.com/
