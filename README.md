@@ -101,6 +101,9 @@ Emphasis on microJS utilities rather than large libraries
  
 ## Hugo Themes
  - [Hugo Pipes + Tailwind CSS](https://github.com/budparr/hugopipes-tailwindcss) Great starter stack by @budparr. Minifies and PurgeCSS built in
+ 
+## Eleventy
+* [Skeleventy](https://github.com/josephdyer/skeleventy) Tailwind starter theme with Gulp PurgeCSS build
 
 ## Payments
 * [ZipSell](https://www.zipsell.org/)
