@@ -104,6 +104,7 @@ Emphasis on microJS utilities rather than large libraries
  
 ## Eleventy
 * [Skeleventy](https://github.com/josephdyer/skeleventy) Tailwind starter theme with Gulp PurgeCSS build
+* [Adding categories and other custom taxonomies](https://www.pborenstein.com/articles/categories/) Extend taxonomies beyond limitation of just tags
 
 ## Payments
 * [ZipSell](https://www.zipsell.org/)
