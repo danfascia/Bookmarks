@@ -104,6 +104,7 @@ Emphasis on microJS utilities rather than large libraries
 ## Eleventy
 * [Skeleventy](https://github.com/josephdyer/skeleventy) Tailwind starter theme with Gulp PurgeCSS build
 * [Adding categories and other custom taxonomies](https://www.pborenstein.com/articles/categories/) Extend taxonomies beyond limitation of just tags
+* [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) Excellent guide on migration from Jekyll to Eleventy which covers creation of more advanced Liquid filters such as _where_ queries
 
 ## Payments
 * [ZipSell](https://www.zipsell.org/)
