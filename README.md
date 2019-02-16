@@ -9,7 +9,6 @@ The time line can be vertical or horizontal and represents temporal data in an o
 ## CSS Frameworks
 
 ### Atomic / Functional
-* http://furtive.co/
 * http://basscss.com/
 * http://tachyons.io/
 * https://tailwindcss.com/
