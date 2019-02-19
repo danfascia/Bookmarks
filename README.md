@@ -95,8 +95,9 @@ Emphasis on microJS utilities rather than large libraries
  - [Metatags.io](https://metatags.io/) Meta tag, facebook og and Twitter card generator
  - [Instant.page](https://instant.page/) Preloads links on hover to accelerate page load experience. 1kB script.
 
-## Jekyll Themes
- - [Hydra](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
+## Jekyll
+ - [Hydra Theme](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
+ - [Speed up Jekyll by 61%](https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/)
  
 ## Hugo Themes
  - [Hugo Pipes + Tailwind CSS](https://github.com/budparr/hugopipes-tailwindcss) Great starter stack by @budparr. Minifies and PurgeCSS built in
