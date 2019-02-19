@@ -28,7 +28,6 @@ Emphasis on microJS utilities rather than large libraries
 * [Tlite](https://chrisdavies.github.io/tlite/) Lightweight tooltips
 * [AnchorJS](https://github.com/bryanbraun/anchorjs) Deep anchor links for headings with # URL
 * [SmoothScroll](https://github.com/cferdinandi/smooth-scroll) Smooth scrolling to anchors.
-
 * [Bouncer](https://github.com/cferdinandi/bouncer) HTML5 form validation with JS improvements.
 * [Atomic](https://github.com/cferdinandi/atomic) Small Ajax/HTTP Promises library for AJAX GET/POST requests
 * [DaysJS](https://github.com/iamkun/dayjs) Lightweight syntax compatible version of Moment.js
@@ -36,6 +35,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Astro](https://github.com/cferdinandi/astro/) Mobile navigation collapse (burger) menu
 * [Gumshoe](https://github.com/cferdinandi/gumshoe/) Scrollspy (great for sidebar and TOC navigation)
 * [Xray](https://github.com/cferdinandi/x-ray/) Password show/hide toggle for form fields
+* [Lity](https://sorgalla.com/lity/) Lightbox script
 
 [Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above. https://vanillajstoolkit.com
 
