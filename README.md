@@ -97,7 +97,7 @@ Emphasis on microJS utilities rather than large libraries
 
 ## Jekyll
  - [Hydra Theme](https://proud-alligator.cloudvent.net/) Nice corporate theme with landing, pricing table, blog and team pages)
- - [Speed up Jekyll by 61%](https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/)
+ - [Speed up Jekyll by 61%](https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/) 2019 guide on speeding up and optimising Jekyll build times
  
 ## Hugo Themes
  - [Hugo Pipes + Tailwind CSS](https://github.com/budparr/hugopipes-tailwindcss) Great starter stack by @budparr. Minifies and PurgeCSS built in
