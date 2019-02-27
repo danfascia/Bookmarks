@@ -3,6 +3,7 @@
 ## Sans Serif (free)
 * [Work Sans](https://fonts.google.com/specimen/Work+Sans)
 * [Rubik](https://fonts.google.com/specimen/Rubik)
+* [Inter](https://rsms.me/inter/)
 
 ## Sans Serif (paid)
 * [Benton Sans](https://fonts.adobe.com/fonts/benton-sans)
