@@ -31,6 +31,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Bouncer](https://github.com/cferdinandi/bouncer) HTML5 form validation with JS improvements.
 * [Atomic](https://github.com/cferdinandi/atomic) Small Ajax/HTTP Promises library for AJAX GET/POST requests
 * [DaysJS](https://github.com/iamkun/dayjs) Lightweight syntax compatible version of Moment.js
+* [datefns](https://date-fns.org/) Modern date function library
 * [Houdini](https://github.com/cferdinandi/houdini) Lightweight Accordions
 * [Astro](https://github.com/cferdinandi/astro/) Mobile navigation collapse (burger) menu
 * [Gumshoe](https://github.com/cferdinandi/gumshoe/) Scrollspy (great for sidebar and TOC navigation)
