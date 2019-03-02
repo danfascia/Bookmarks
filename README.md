@@ -117,3 +117,6 @@ Emphasis on microJS utilities rather than large libraries
 
 ## Site Monitoring
 * [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
+
+## Business Tools
+* (HMCTE)[https://hmcte.info/] How Many Customers To Earn - calculations around revenue models, nice tool
