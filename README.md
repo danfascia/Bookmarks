@@ -87,6 +87,7 @@ Emphasis on microJS utilities rather than large libraries
 * https://formspree.io/ (free + paid) Simple and elegant email endpoint + upgrade features
 * https://formcarry.com/ (free + paid) Advanced features in paid version
 * https://helloforms.co/ (cheap paid) Webhooks, otherwise quite basic but great pricing
+* [Custom forms for Google Sheets](https://www.developerdrive.com/2019/01/add-google-forms-static-site/) How to customise a front end form for Sheets
 
 ## SEO
  - [gethead.info](https://gethead.info/) A free guide to HTML <head> element best practices
