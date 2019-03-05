@@ -117,8 +117,14 @@ Emphasis on microJS utilities rather than large libraries
 * [Gumroad](https://gumroad.com/) A bit expensive but very slick experience for digital products
 * [Snipcart](https://snipcart.com/) The most comprehensive, best designed standalone shopping cart / payment experience. Supports subscriptions.
 
-## Site Monitoring
+## Site Monitoring / Measuring
 * [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
+* [Countly](https://count.ly/) Self hosted analytics with GDPR features
+* [Fathom](https://usefathom.com/) Elegant and simple analytics with SaaS and self host option with easy Digital Ocean droplet
 
 ## Business Tools
 * (HMCTE)[https://hmcte.info/] How Many Customers To Earn - calculations around revenue models, nice tool
+
+## Mailing Lists
+* [MailerLite](https://www.mailerlite.com/) Cheaper leaner mailchimp alternative, landing pages, pops etc
+* [Sendy](https://sendy.co) Self hosted mailing list manager which uses Amazon SES to deliver. (PHP 😞)
