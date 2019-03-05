@@ -119,6 +119,7 @@ Emphasis on microJS utilities rather than large libraries
 
 ## Site Monitoring / Measuring
 * [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
+* [Minimal Google Analytics Script](https://minimalanalytics.com/) Get rid of the bloated Google one
 * [Countly](https://count.ly/) Self hosted analytics with GDPR features
 * [Fathom](https://usefathom.com/) Elegant and simple analytics with SaaS and [self host option](https://www.kn8.lt/blog/hosting-your-own-analytics-with-fathom/) with easy Digital Ocean droplet.
 
