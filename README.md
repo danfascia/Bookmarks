@@ -37,6 +37,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Gumshoe](https://github.com/cferdinandi/gumshoe/) Scrollspy (great for sidebar and TOC navigation)
 * [Xray](https://github.com/cferdinandi/x-ray/) Password show/hide toggle for form fields
 * [Lity](https://sorgalla.com/lity/) Lightbox script
+* [Instafeed](http://instafeedjs.com) Nice front-end instagram integration
 
 [Great page of VanillaJS](https://vanillajstoolkit.com/plugins) resources many of which are already individually linked above. https://vanillajstoolkit.com
 
@@ -116,6 +117,7 @@ Emphasis on microJS utilities rather than large libraries
 * [Zoho Checkout](https://www.zoho.com/uk/checkout/) A bit Zoho-esque but works well
 * [Gumroad](https://gumroad.com/) A bit expensive but very slick experience for digital products
 * [Snipcart](https://snipcart.com/) The most comprehensive, best designed standalone shopping cart / payment experience. Supports subscriptions.
+* [Tito](https://ti.to/home) Excellent ticket sales platform
 
 ## Site Monitoring / Measuring
 * [updown.io](https://updown.io/) Fantastic pricing model which scales per sites and frequency of checks
