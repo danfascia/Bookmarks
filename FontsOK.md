@@ -10,6 +10,7 @@
 * [Fira Sans](https://fonts.adobe.com/fonts/fira-sans)
 * [FF Mark](https://www.myfonts.com/fonts/fontfont/mark/webfont_preview.html)
 * [HK Sentiments](https://hanken.co/product/hk-sentiments/)
+* [Graphik](https://commercialtype.com/catalog/graphik/)
 
 ## Monospace
 * [Monoist (paid)](https://hanken.co/product/monoist/)
