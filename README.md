@@ -12,6 +12,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * http://basscss.com/
 * http://tachyons.io/
 * https://tailwindcss.com/
+* https://taniarascia.github.io/primitive/
 
 ### Others
 * https://purecss.io/
