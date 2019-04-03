@@ -6,6 +6,10 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 * https://codepen.io/anon/pen/gxvgGw
 
+## Learning and Reference
+
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
+
 ## CSS Frameworks
 
 ### Atomic / Functional
