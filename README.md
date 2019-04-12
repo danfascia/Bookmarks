@@ -15,7 +15,7 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 ### Atomic / Functional
 * http://basscss.com/
-* http://tachyons.io/
+* http://tachyons.io/ ([Cheatsheet and customisations ](https://tachyons-tldr.now.sh) )
 * https://tailwindcss.com/
 * https://taniarascia.github.io/primitive/
 
