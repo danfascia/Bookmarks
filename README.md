@@ -5,6 +5,7 @@ Collection of tools found and tested
 The time line can be vertical or horizontal and represents temporal data in an ordered fashion.
 
 * https://codepen.io/anon/pen/gxvgGw
+* https://stitches.hyperyolo.com/ Interesting Tailwind powered template generator
 
 ## Learning and Reference
 
