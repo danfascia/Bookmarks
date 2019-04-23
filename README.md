@@ -67,6 +67,7 @@ Emphasis on microJS utilities rather than large libraries
 * https://feathericons.com/
 * https://github.com/sschoger/heroicons-ui
 * https://akveo.github.io/eva-icons/#/?type=outline
+* https://icons8.com/c/animated-icons
 
 ## Components
 * https://material.io/develop/web/
