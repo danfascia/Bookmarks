@@ -51,6 +51,7 @@ Emphasis on microJS utilities rather than large libraries
 
 * [Staticman](https://staticman.net/) Pipes field data to a markdown file on your GitHub repo. NodeJS, can be self hosted or SaaS
 * [Trigger & Send Google Sheets addon](https://chrome.google.com/webstore/detail/trigger-send/lmpdaoninbfpblmajgcodhookngnekek) Call a webhook when a Sheets event is triggered
+* [Terms of Service Generator](https://getterms.io/)
 
 ## Colour
 * Better contrast ratios https://colorable.jxnblk.com
