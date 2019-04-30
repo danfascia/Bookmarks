@@ -83,10 +83,11 @@ Emphasis on microJS utilities rather than large libraries
 ## Backgrounds
 * http://www.heropatterns.com/
 
-## Media Hosting / CDN
+## Hosting / CDN
 * https://images.weserv.nl/ (free)
 * https://cloudinary.com (good free tier also supports video)
 * https://www.imgix.com/ (no free tier but fair and scalable pricing model)
+* https://1mb.site/ (Interesting microhost with noSQL database)
 
 ## Form Endpoints
 * https://www.formata.io/ (paid) Very feature rich, webhooks, results API
