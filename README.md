@@ -143,3 +143,6 @@ Emphasis on microJS utilities rather than large libraries
 * [EmailOctopus](https://emailoctopus.com/) Uses Amazon SES and has reasonable fees. Limited automation.
 * [Moosend](https://moosend.com/) Cheap at small numbers and has amazing in depth automation triggers
 * [MoonMail](https://moonmail.io/) Amazon SES based mailing lists, can be self hosted. Good for very large lists. No automations.
+
+## Podcasting
+* [FeedPress](https://feed.press) Economical podcast hosting with statistics and other useful features
