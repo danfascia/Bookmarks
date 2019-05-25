@@ -59,6 +59,7 @@ Emphasis on microJS utilities rather than large libraries
 * http://clrs.cc/
 * Colour Scale tool https://hihayk.github.io/scale/
 * CSSGradient maker https://uigradients.com/#LoveCouple
+* Tint generator https://noeldelgado.github.io/shadowlord/#1BD764
 
 ## Icons
 * http://geomicons.com/
