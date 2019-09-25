@@ -19,6 +19,9 @@ The time line can be vertical or horizontal and represents temporal data in an o
 * https://tailwindcss.com/
 * https://taniarascia.github.io/primitive/
 
+### Tailwind CSS
+* [Tailwind Colour Tool](https://tailwind-colors.meidev.co/)
+
 ### Others
 * https://purecss.io/
 * http://milligram.io/
