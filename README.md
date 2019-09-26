@@ -64,6 +64,11 @@ Emphasis on microJS utilities rather than large libraries
 * CSSGradient maker https://uigradients.com/#LoveCouple
 * Tint generator https://noeldelgado.github.io/shadowlord/#1BD764
 
+## Design
+* [Get Waves](https://getwaves.io/) SVG wavy bottom/top generator
+* [Blobmaker](https://www.blobmaker.app/) SVG blob generator
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) SVG optimisation web app
+
 ## Icons
 * http://geomicons.com/
 * http://jxnblk.com/geomicons-wired/
