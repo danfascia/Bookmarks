@@ -156,3 +156,6 @@ Emphasis on microJS utilities rather than large libraries
 
 ## Podcasting
 * [FeedPress](https://feed.press) Economical podcast hosting with statistics and other useful features
+
+## PDF as a service
+* [PDF Monkey](https://www.pdfmonkey.io/)
