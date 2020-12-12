@@ -29,6 +29,8 @@ The time line can be vertical or horizontal and represents temporal data in an o
 
 ## Frontend JS
 Emphasis on microJS utilities rather than large libraries
+* [Nan01d](https://github.com/antiflasher/nanoid-1) Tiny 162-byte UUID generator ([Useful collision probability tool](https://zelark.github.io/nano-id-cc/))
+* [Iodine](https://github.com/mattkingshott/iodine) Micro frontend form validation tool
 * [Micromodal](https://micromodal.now.sh) Micro framework to build modals
 * [Modals](https://github.com/cferdinandi/modals/) Very light and flexible modal script
 * [Tabby](https://github.com/cferdinandi/tabby/) As above for tabs
